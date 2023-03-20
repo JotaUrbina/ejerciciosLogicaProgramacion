@@ -7,7 +7,7 @@ no tener en cuenta espacios ni símbolos raros*/
 
 const checkPalindrome = (word) => {
   let reverseWord = word.split("").reverse().join("");
-  return word === reverseWord;
+  return reverseWord;
 };
 
 console.log(checkPalindrome("hassen"));
