@@ -15,6 +15,6 @@ const calcOdd = (num1, num2) => {
   return textRes;
 };
 
-console.log(calcOdd(3, 7));
+console.log(calcOdd(1, 3));
 console.log(calcOdd(2, 10));
 console.log(calcOdd(2, 3));
