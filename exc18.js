@@ -1,4 +1,4 @@
-/* Dado un número, mostrat todos sus divisores */
+/* Dado un número, mostrar todos sus divisores */
 
 const getDividers = (num) => {
   let dividers = [];
@@ -11,3 +11,4 @@ const getDividers = (num) => {
 
 console.log(getDividers(5));
 console.log(getDividers(9));
+console.log(getDividers(19));
