@@ -26,5 +26,5 @@ const checkAnagram = (string1, string2) => {
 
 console.log(checkAnagram("unoU", "uoNu"));
 console.log(checkAnagram("loca", "cola"));
-console.log(checkAnagram("poto", "pera"));
+console.log(checkAnagram("foto", "pera"));
 console.log(checkAnagram("aalaa", "laaaa"));

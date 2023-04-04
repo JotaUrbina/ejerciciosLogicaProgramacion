@@ -22,5 +22,5 @@ const mostUsedChar = (str) => {
   return mostUsed;
 };
 
-console.log(mostUsedChar("hola soy una caca"));
+console.log(mostUsedChar("hola soy una pava"));
 console.log(mostUsedChar("gooool una"));

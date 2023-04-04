@@ -8,4 +8,4 @@ const getVocals = (str) => {
   } vocales en la frase`;
 };
 
-console.log(getVocals("hola po conchetumare"));
+console.log(getVocals("hola po hassen"));

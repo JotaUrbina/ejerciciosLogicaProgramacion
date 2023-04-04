@@ -26,15 +26,12 @@ const searchWordInPhrase = (phrase, word) => {
 };
 
 console.log(
-  searchWordInPhrase(
-    "holá, soy una CACA bien Caca!",
-    "caca"
-  )
+  searchWordInPhrase("holá, soy un loco bien Loco!", "loco")
 );
 
 console.log(
   searchWordInPhrase(
-    "soy una caca bien CACA haciendo caca limpiándome la caca",
-    "cacá"
+    "soy un loco bien LOCO haciéndome el loco comiendo como loco",
+    "loco"
   )
 );

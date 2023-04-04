@@ -14,5 +14,8 @@ const censorText = (text, search) => {
 };
 
 console.log(
-  censorText("Holas po weon ciliao weon", "weon")
+  censorText(
+    "Hola hassen cómo estás amigo hassen",
+    "hassen"
+  )
 );

@@ -15,4 +15,6 @@ const printUpper = (text) => {
 };
 
 console.log(printUpper("hola me hago caca"));
-console.log(printUpper("Me llamo Javier urbina y qué wea"));
+console.log(
+  printUpper("Me llamo Javier urbina y qué pasa")
+);
