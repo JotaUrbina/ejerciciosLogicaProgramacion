@@ -13,6 +13,7 @@ const checkUpper = (str) => {
 };
 
 const separateLowerUpper = (str) => {
+  //forma de iterar un string con ES6
   [...str].forEach((ele) => {
     /["A-Z"]/.test(ele) // El método test() checkea si se cumple o no lo que s eindica en la expresión regular.
       ? upperCase.push(ele)
